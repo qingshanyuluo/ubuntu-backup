@@ -27,7 +27,7 @@
 
 ### 聊天
 
-- tim [参照博客](https://blog.csdn.net/Scythe666/article/details/86592035)
+- https://blog.csdn.net/xinjieyuan/article/details/104640921
 
 ### 网盘
 
@@ -56,6 +56,8 @@
 ### gcc g++ gdb
 
 ### 输入法
+https://blog.csdn.net/wu10188/article/details/86540464
+https://www.cnblogs.com/keatonlao/p/12983158.html
 
 ### zsh
 
